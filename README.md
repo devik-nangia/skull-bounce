@@ -1,3 +1,3 @@
-## Music player
+# dancing skeletons
 
-The top-right **MUSIC** player searches 50 distinct recordings from nullrights.com's catalog. Each track is marked CC0 / public domain by the catalog, which states that recordings are rechecked against their source license and may be redistributed. Selecting a track streams its existing audio file from the catalog; no tracks are generated in the browser. Search filters titles and artists. Volume and playback-speed controls affect the actual audio, while the tempo control also updates the skeleton auto-dance BPM. Each selected track links to its catalog/license page. Streaming requires an internet connection.
+thats it
